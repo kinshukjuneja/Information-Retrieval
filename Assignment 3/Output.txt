@@ -1,0 +1,297 @@
+Information retrieval class
+['Information', 'retrieval', 'class']
+
+251	'251'.txt
+<p>The <b>Aberfan disaster</b> was the catastrophic collapse of a <a href="/wiki/Colliery" class="mw-redirect" title="Colliery">colliery</a> <a href="/wiki/Spoil_tip" title="Spoil tip">spoil tip</a> a
+Cosine:0.9481783774607193
+
+793	'793'.txt
+<p><b>Free content</b>, <b><a href="/wiki/Gratis_versus_libre" title="Gratis versus libre">libre</a> content</b>, or <b>free information</b>, is any kind of functional work, <a href="/wiki/Work_of_art
+Cosine:0.9288405367831127
+
+480	'480'.txt
+<p>An <b>encyclopedia</b> or <b>encyclopaedia</b> is a <a href="/wiki/Reference_work" title="Reference work">reference work</a> or <a href="/wiki/Compendium" title="Compendium">compendium</a> providin
+Cosine:0.9046751687920482
+
+705	'705'.txt
+<p><b>Wikipedia</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/\xcb\x8c/
+Cosine:0.6915710976832405
+
+359	'359'.txt
+<p><b>Buffalo</b> is the <a href="/wiki/List_of_cities_in_New_York" class="mw-redirect" title="List of cities in New York">second largest city</a> in the <a href="/wiki/United_States" title="United St
+Cosine:0.40026187930697504
+
+Information: 0.2860158030220249; retrieval: 0.9164008009455518; class: 0.2800080935402005; 
+
+
+
+good Indian restaurants near me
+['good', 'Indian', 'restaurants', 'near', 'me']
+
+470	'470'.txt
+<p>All <a href="/wiki/Languages_of_the_United_Kingdom" title="Languages of the United Kingdom">UK speakers</a>:  700,000+ (2012)<sup id="cite_ref-WelshStatOverview_1-0" class="reference"><a href="#cit
+Cosine:0.9147177586617502
+
+861	'861'.txt
+<p><small>(1) \xe2\x80\x93 The Expos played twenty-two (of eighty-one) home games in San Juan during the 2003 and 2004 seasons respectively, and the remainder in Montreal.</small>\n</p>
+Cosine:0.8713444721850857
+
+617	'617'.txt
+<p><b>Jersey</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/\xcb\x88/: p
+Cosine:0.8078388890955789
+
+557	'557'.txt
+<p><b>San Francisco</b> (<b>SF</b>; <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span ti
+Cosine:0.8045481789576945
+
+493	'493'.txt
+<p><b>Troy</b> is a <a href="/wiki/City_(New_York)" class="mw-redirect" title="City (New York)">city</a> in the <a href="/wiki/U.S._state" title="U.S. state">U.S. state</a> of <a href="/wiki/New_York_
+Cosine:0.7793213624267952
+
+good: 0.27890524883193524; Indian: 0.3709722699773678; restaurants: 0.6755624706005066; near: 0.17112680033369945; me: 0.546737966127765; 
+
+
+
+big bang theory
+['big', 'bang', 'theory']
+
+449	'449'.txt
+<p><b>Yorkshire and the Humber</b> is one of nine official <a href="/wiki/Regions_of_England" title="Regions of England">regions of England</a> at the <a href="/wiki/First-level_NUTS_of_the_European_U
+Cosine:0.961480513696137
+
+878	'878'.txt
+<p><b>North East England</b> is one of nine official <a href="/wiki/Regions_of_England" title="Regions of England">regions of England</a> at the <a href="/wiki/First-level_NUTS_of_the_European_Union" 
+Cosine:0.8900838492836025
+
+557	'557'.txt
+<p><b>San Francisco</b> (<b>SF</b>; <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span ti
+Cosine:0.8900830733446775
+
+847	'847'.txt
+<p><br />\n</p>
+Cosine:0.751187542002014
+
+617	'617'.txt
+<p><b>Jersey</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/\xcb\x88/: p
+Cosine:0.5013561590660595
+
+big: 0.3387195256474087; bang: 0.8652410079085064; theory: 0.3696310067873991; 
+
+
+
+canopy growth
+['canopy', 'growth']
+
+333	'333'.txt
+<p><b>Atlanta</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/\xc3\xa6/: 
+Cosine:0.9994403989144928
+
+384	'384'.txt
+<p>The <b>English Reformation</b> was a series of events in 16th-century England by which the <a href="/wiki/Church_of_England" title="Church of England">Church of England</a> broke away from the auth
+Cosine:0.9467818109853283
+
+282	'282'.txt
+<p><br />\n</p>
+Cosine:0.9467818109853283
+
+832	'832'.txt
+<p><a href="/w/index.php?title=Akkesiphycaceae&amp;action=edit&amp;redlink=1" class="new" title="Akkesiphycaceae (page does not exist)">Akkesiphycaceae</a><br />\n<a href="/wiki/Alariaceae" title="Ala
+Cosine:0.8927198989096288
+
+864	'864'.txt
+<p><b>Charleston</b> is the oldest and largest city in the <a href="/wiki/U.S._state" title="U.S. state">U.S. state</a> of <a href="/wiki/South_Carolina" title="South Carolina">South Carolina</a>, the
+Cosine:0.8926877095846824
+
+canopy: 0.9467818109853283; growth: 0.3218760668135206; 
+
+
+
+retired baseball players
+['retired', 'baseball', 'players']
+
+593	'593'.txt
+<p>The <b>Netherlands</b> (<a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>: <i lang="nl">Nederland</i> <small></small><span title="Representation in the International Phonetic Alphabet
+Cosine:0.9999999999999998
+
+419	'419'.txt
+<p><br />\n</p>
+Cosine:0.9966071369302067
+
+332	'332'.txt
+<p><br />\n</p>
+Cosine:0.9914250911287142
+
+599	'599'.txt
+<p>The <b>Milwaukee Brewers</b> are an American <a href="/wiki/Professional_baseball" title="Professional baseball">professional baseball</a> team based in <a href="/wiki/Milwaukee" title="Milwaukee">
+Cosine:0.9724575541965327
+
+766	'766'.txt
+<p><br />\n</p>
+Cosine:0.9653449241000442
+
+retired: 0.6739721964618598; baseball: 0.5242035557891811; players: 0.5205498155742205; 
+
+
+
+magnetic field
+['magnetic', 'field']
+
+268	'268'.txt
+<p><b>Falmouth</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/\xcb\x88/:
+Cosine:1.0
+
+228	'228'.txt
+<p>The <b>Cornubian batholith</b> is a large mass of <a href="/wiki/Granite" title="Granite">granite</a> rock, formed about 280 million years ago, which lies beneath much of the south-western peninsul
+Cosine:1.0
+
+822	'822'.txt
+<p><b>Air traffic control</b> (<b>ATC</b>) is a service provided by ground-based <a href="/wiki/Air_traffic_controller" title="Air traffic controller">air traffic controllers</a> who direct aircraft o
+Cosine:0.9999999999999999
+
+583	'583'.txt
+<p>A <b>fixed-wing aircraft</b> is a <a href="/wiki/Aircraft" title="Aircraft">flying machine</a>, such as an <a href="/wiki/Airplane" title="Airplane">airplane or aeroplane</a> (see <a href="/wiki/Am
+Cosine:0.9999999999999999
+
+272	'272'.txt
+<p><b>Mercury</b> is the smallest and innermost <a href="/wiki/Planet" title="Planet">planet</a> in the <a href="/wiki/Solar_System" title="Solar System">Solar System</a>. Its <a href="/wiki/Orbital_p
+Cosine:0.9992942426619297
+
+magnetic: 0.9448743570278676; field: 0.3274331220740714; 
+
+
+
+most powerful countries
+['most', 'powerful', 'countries']
+
+589	'589'.txt
+<p>The <b>Japan Aerospace Exploration Agency</b> (<b>JAXA</b>)<span style="font-weight: normal">&#32;(<span lang="ja">\xe5\x9b\xbd\xe7\xab\x8b\xe7\xa0\x94\xe7\xa9\xb6\xe9\x96\x8b\xe7\x99\xba\xe6\xb3\x
+Cosine:1.0
+
+98	'98'.txt
+<p><b>1924</b> (<a href="/wiki/Roman_numerals" title="Roman numerals">MCMXXIV</a>)\nwas a <a href="/wiki/Leap_year" title="Leap year">leap year</a> <a href="/wiki/Leap_year_starting_on_Tuesday" title=
+Cosine:1.0
+
+42	'42'.txt
+<p><a href="/wiki/File:BepiColombo_insignia.png" class="image" title="BepiColombo mission insignia"><img alt="BepiColombo mission insignia" src="//upload.wikimedia.org/wikipedia/en/thumb/8/84/BepiColo
+Cosine:1.0
+
+740	'740'.txt
+<p>The <b>Met Office</b> (officially the <b>Meteorological Office</b>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> is the United Kingdom\'s national weather serv
+Cosine:0.9999999999999999
+
+99	'99'.txt
+<p>The <b>Barbary pirates</b>, sometimes called <b>Barbary corsairs</b> or <b>Ottoman corsairs</b>, were <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> and <a href="/wiki/Maghrebis"
+Cosine:0.972707058048168
+
+most: 0.17126332183672804; powerful: 0.7574384257692485; countries: 0.6300443680897814; 
+
+
+
+nuclear war
+['nuclear', 'war']
+
+306	'306'.txt
+<p><b><a href="/wiki/Juncker_Commission" title="Juncker Commission">Commission</a> (476)</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>\n</p>
+Cosine:1.0
+
+796	'796'.txt
+<p><i><b>National Geographic</b></i> (formerly the <i><b>National Geographic Magazine</b></i> and branded also as <b>NAT GEO</b>) is the official magazine of the <a href="/wiki/National_Geographic_Soc
+Cosine:1.0
+
+279	'279'.txt
+<p>The <b>East Midlands</b> is one of nine official <a href="/wiki/Regions_of_England" title="Regions of England">regions of England</a> at the <a href="/wiki/First_level_NUTS_of_the_European_Union" c
+Cosine:0.9999999999999998
+
+157	'157'.txt
+<p>The <b>European Union</b> (<b>EU</b>) is a <a href="/wiki/Political_union" title="Political union">political</a> and <a href="/wiki/Economic_union" title="Economic union">economic union</a> of <a h
+Cosine:0.9941482423003507
+
+669	'669'.txt
+<p><b>South West England</b> is one of nine official <a href="/wiki/Regions_of_England" title="Regions of England">regions of England</a>.  It is the largest in area, covering 9,200 square miles (23,8
+Cosine:0.9919365464236266
+
+nuclear: 0.9184190295427055; war: 0.3956090066894774; 
+
+
+
+romantic movies
+['romantic', 'movies']
+
+593	'593'.txt
+<p>The <b>Netherlands</b> (<a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>: <i lang="nl">Nederland</i> <small></small><span title="Representation in the International Phonetic Alphabet
+Cosine:1.0
+
+648	'648'.txt
+<p>The <i><b>Orkneyinga saga</b></i> (also called the <i><b>History of the Earls of Orkney</b></i> and <i><b>Jarls\' Saga</b></i>) is a historical narrative of the history of the <a href="/wiki/Orkney
+Cosine:1.0
+
+446	'446'.txt
+<p><i><b>Dilwale Dulhania Le Jayenge</b></i> (English: <i lang="en">The Big-Hearted Will Take Away the Bride</i>), also known by the <a href="/wiki/Initialism" class="mw-redirect" title="Initialism">i
+Cosine:0.980118509924568
+
+196	'196'.txt
+<p>The <b>Cotswolds</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/\xcb\
+Cosine:0.9013452897220827
+
+123	'123'.txt
+<p><a href="/wiki/St._Louis_Lambert_International_Airport" title="St. Louis Lambert International Airport">St. Louis Lambert International Airport</a>\n</p>
+Cosine:0.7331704050258848
+
+romantic: 0.6800449670383423; movies: 0.7331704050258848; 
+
+
+
+magnetic field
+['magnetic', 'field']
+
+268	'268'.txt
+<p><b>Falmouth</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/\xcb\x88/:
+Cosine:1.0
+
+228	'228'.txt
+<p>The <b>Cornubian batholith</b> is a large mass of <a href="/wiki/Granite" title="Granite">granite</a> rock, formed about 280 million years ago, which lies beneath much of the south-western peninsul
+Cosine:1.0
+
+822	'822'.txt
+<p><b>Air traffic control</b> (<b>ATC</b>) is a service provided by ground-based <a href="/wiki/Air_traffic_controller" title="Air traffic controller">air traffic controllers</a> who direct aircraft o
+Cosine:0.9999999999999999
+
+583	'583'.txt
+<p>A <b>fixed-wing aircraft</b> is a <a href="/wiki/Aircraft" title="Aircraft">flying machine</a>, such as an <a href="/wiki/Airplane" title="Airplane">airplane or aeroplane</a> (see <a href="/wiki/Am
+Cosine:0.9999999999999999
+
+272	'272'.txt
+<p><b>Mercury</b> is the smallest and innermost <a href="/wiki/Planet" title="Planet">planet</a> in the <a href="/wiki/Solar_System" title="Solar System">Solar System</a>. Its <a href="/wiki/Orbital_p
+Cosine:0.9992942426619297
+
+magnetic: 0.9448743570278676; field: 0.3274331220740714; 
+
+
+
+corpus
+['corpus']
+
+575	'575'.txt
+<p><i>Pontic Steppe</i><br />\n</p>
+Cosine:1.0
+
+510	'510'.txt
+<p><b>British Sign Language</b>  (<b>BSL</b>) is a <a href="/wiki/Sign_language" title="Sign language">sign language</a> used in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdo
+Cosine:1.0
+
+157	'157'.txt
+<p>The <b>European Union</b> (<b>EU</b>) is a <a href="/wiki/Political_union" title="Political union">political</a> and <a href="/wiki/Economic_union" title="Economic union">economic union</a> of <a h
+Cosine:1.0
+
+188	'188'.txt
+<p><b>English</b> is a <a href="/wiki/West_Germanic_language" class="mw-redirect" title="West Germanic language">West Germanic language</a> that was first spoken in <a href="/wiki/Anglo-Saxon_England"
+Cosine:1.0
+
+859	'859'.txt
+<p>The <b>Irish language</b> (<i lang="ga" title="Irish language text">Gaeilge</i>), also sometimes referred to as <b>Gaelic</b> or the <b>Irish Gaelic language</b>,<sup id="cite_ref-5" class="referen
+Cosine:1.0
+
+corpus: 1.0; 
+
+
+
