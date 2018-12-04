@@ -1,0 +1,5 @@
+I was initially trying to use a bash script using curl to query Google and Bing to extract the URLs, but due to some security issue (I think), they did not allow me to query them using curl or wget and kept returning me 403 error which means forbidden or no permission to access.
+
+So, alternatively, as stated in the assignment, I ran the queries manually on the browser and then extracted the top 15 URLs for the three queries in Google and Bing and saved them separately in the following files which are there in the submission:
+"GoogleTop15Query1.txt", "GoogleTop15Query2.txt", "GoogleTop15Query3.txt"
+"BingTop15Query1.txt", "BingTop15Query2.txt", "BingTop15Query3.txt"

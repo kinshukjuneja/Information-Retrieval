@@ -1,0 +1,84 @@
+a., Query:,learn new music instrument,,
+b., Search engines that you queried:,Google & Bing ,,
+c., The number of duplicates removed when results were pooled:,4,,
+d., The final pool size after duplicates are removed:,12,,
+e., The total number of relevant results:,10,,
+f., The table with the pooled and deduplicated result URLs along with information about their relevance:,,,
+,Number,Result URL,Is it relevant?,Relevance: Why?
+,1,https://medium.com/giglue/top-20-musical-instruments-you-can-easily-play-693f603a2bcf,Yes,Good information about top 15 musical instruments that are easy to learn
+,2,https://www.thoughtco.com/choose-a-musical-instrument-to-play-3552861,Yes,Good description on how to choose a musical instrument to play for beginners
+,3,https://www.classicfm.com/discover-music/latest/learning-musical-instrument/,No,Talks more about cons when starting to learn a new music instrument but does not mention how to learn a new music instrument or choose one
+,4,https://www.pastemagazine.com/articles/2017/03/learn-a-new-musical-instrument-with-these-10-great.html,Yes,Good resources about 10 amazing apps that can help in learning a new musical instrument
+,5,https://www.marketwatch.com/story/why-you-should-learn-a-musical-instrument-2017-05-04,Yes,Good information on why to learn a new musical instrument as an adult and how to get started
+,6,https://takelessons.com/blog/easiest-instrument-for-adults,Yes,Good information on 5 easiest musical instruments for adults and which one to choose
+,7,https://www.wikihow.com/Learn-to-Play-an-Instrument,Yes,Good step by step guide on how to learn to play a musical instrument
+,8,https://didgeproject.com/kids/10-best-musical-instruments-children-learn/,Yes,Good information about best 10 musical instruments for children to learn
+,9,https://www.udemy.com/courses/music/instruments/,Yes,Good resources available providing different courses to learn various musical instruments
+,10,https://www.insidermonkey.com/blog/10-easiest-instruments-to-learn-how-to-play-359476/,Yes,Good description about 10 easiest musical instruments to learn and how to play
+,11,http://www.bbc.co.uk/guides/z3y3hv4,No,Talks about impact of playing musical instruments on mind and body but does not mention how to learn to play
+,12,https://www.onlinecollegecourses.com/2012/10/07/30-great-places-to-learn-a-new-instrument-online/,Yes,Good information about 30 great resources to learn playing a new musical instrument online
+g., A table with the metrics computed for the search engines we're evaluating: ,,,
+,Metric,Search Engine 1 = Google,Search Engine 2 = Bing ,
+,Precision at rank 5,0.8,1,
+,Precision at rank 8,0.875,0.875,
+,Precision at rank 12,0.583333333,0.666666667,
+,Average Precision at rank 8,0.873639456,0.982142857,
+,,,,
+,,,,
+,,,,
+,,,,
+a., Query:,common cold home remedies,,
+b., Search engines that you queried:,Google & Bing ,,
+c., The number of duplicates removed when results were pooled:,3,,
+d., The final pool size after duplicates are removed:,13,,
+e., The total number of relevant results:,13,,
+f., The table with the pooled and deduplicated result URLs along with information about their relevance:,,,
+,Number,Result URL,Is it relevant?,Relevance: Why?
+,1,https://www.healthline.com/health/cold-flu/home-remedies,Yes,Good article on 11 cold and flu home remedies
+,2,https://www.mayoclinic.org/diseases-conditions/common-cold/in-depth/cold-remedies/art-20046403,Yes,Good information about common cold home remedies that work and those that do not work
+,3,https://www.webmd.com/cold-and-flu/12-tips-prevent-colds-flu-1#1,Yes,Good description about 12 natural treatment tips that were home remedies for curing cold and flu
+,4,https://www.medicalnewstoday.com/articles/319573.php,Yes,Good detailed description about everything there is to know about common cold along with home remedies
+,5,https://www.everydayhealth.com/hs/cold-flu-guide/common-cold-home-remedies/,Yes,Good description about top 10 home remedies for the common cold
+,6,https://www.everydayhealth.com/lung-respiratory/cold-flu/10-doctor-approved-natural-cold-remedies/,Yes,Good description on 10 doctor approved natural cold remedies
+,7,https://www.verywellhealth.com/cold-remedies-90007,Yes,Good information about the popular natural remedies for the common cold
+,8,https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/15-home-remedies-for-common-cold-and-cough/articleshow/21952311.cms,Yes,Good description about the 15 home remedies for common cold and cough
+,9,https://www.webmd.com/cold-and-flu/cold-guide/cold-remedies,Yes,Good succinct points about home remedies for common cold
+,10,https://www.everydayhealth.com/cold-and-flu/home-remedies.aspx,Yes,Good description about best 10 home remedies for the common cold
+,11,https://www.home-remedies-for-you.com/remedy/Common-Cold.html,Yes,Good description about remedies and diet for common cold
+,12,https://health.howstuffworks.com/wellness/natural-medicine/home-remedies/home-remedies-for-colds.htm,Yes,Good description about how common cold is spread and home remedies for curing it
+,13,https://everydayroots.com/cold-remedies,Yes,Good description about 16 remedies to cure common cold along with ingredients and how to use them efficiently
+g., A table with the metrics computed for the search engines we're evaluating: ,,,
+,Metric,Search Engine 1 = Google,Search Engine 2 = Bing ,
+,Precision at rank 5,1,1,
+,Precision at rank 8,1,1,
+,Precision at rank 12,0.666666667,0.75,
+,Average Precision at rank 8,1,1,
+,,,,
+,,,,
+,,,,
+,,,,
+a., Query:,tourist attractions in Italy,,
+b., Search engines that you queried:,Google & Bing ,,
+c., The number of duplicates removed when results were pooled:,4,,
+d., The final pool size after duplicates are removed:,12,,
+e., The total number of relevant results:,12,,
+f., The table with the pooled and deduplicated result URLs along with information about their relevance:,,,
+,Number,Result URL,Is it relevant?,Relevance: Why?
+,1,https://www.planetware.com/tourist-attractions/italy-i.htm,Yes,Good description about 15 top rated tourist attractions in Italy
+,2,https://www.touropia.com/tourist-attractions-in-italy/,Yes,Good description about 30 top tourist attractions in Italy along with tours and activities
+,3,https://www.tripsavvy.com/top-italian-tourist-attractions-1547123,Yes,Good succinct information about top 6 tourist attractions in Italy 
+,4,https://www.touropia.com/best-places-to-visit-in-italy/,Yes,Good description about 10 best places to visit in Italy along with information about where to stay
+,5,https://traveltriangle.com/blog/tourist-places-in-italy/,Yes,Good key attractions about 10 places to visit in Italy
+,6,https://www.tripadvisor.com/Attractions-g187768-Activities-Italy.html,Yes,Good resources about tours and tickets along with sightseeing that can be done in Italy
+,7,https://www.italianbreaks.com/italy-destinations-top-10-tourist-attractions-in-italy/,Yes,Good succinct information about top 10 tourist attractions in Italy
+,8,https://www.cnn.com/travel/article/beautiful-italy-best-places-to-visit/index.html,Yes,Good 2-3 line description about each of the 33 amazing places to visit in Italy along with pictures
+,9,https://www.triphistoric.com/explore/articles/the-top-10-tourist-attractions-in-italy,Yes,Good snippets with pictures about the top ten tourist attractions in Italy
+,10,https://toptravellists.com/attractions-in-italy/,Yes,Good description along with ranking about the top ten tourist attractions in Italy
+,11,https://www.italylogue.com/italy-tourist-attractions,Yes,Good description about some of the most most popular tourist attractions in Italy along with its history
+,12,https://www.touropia.com/tourist-attractions-in-rome/,Yes,Good description about 25 top tourist attractions specific to just one city Rome but it is still relevant
+g., A table with the metrics computed for the search engines we're evaluating: ,,,
+,Metric,Search Engine 1 = Google,Search Engine 2 = Bing ,
+,Precision at rank 5,1,1,
+,Precision at rank 8,1,1,
+,Precision at rank 12,0.666666667,0.666666667,
+,Average Precision at rank 8,1,1,

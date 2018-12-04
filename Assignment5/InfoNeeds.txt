@@ -1,0 +1,35 @@
+Information Need 1
+
+Description: I want to learn a new music instrument, could be any and I want to know how I can achieve this.
+
+Questions: How to learn a new music instrument easily? Is there any professional coaching available? How much money does it take to buy an instrument and learn from a professional? Can I learn it by myself? How much time will it take me to master it completely?
+
+Query: learn new music instrument
+
+Narrative: Relevant sites must talk about learning a new music instrument. A relevant site may take about coaching institutes or private tuitions that provide services to teach a new music instrument. Other relevant sites may talk about music instruments in general and perhaps, which ones are more easy to learn or how to choose one. Sites which talk about music in general (like songs, artists, albums, etc.), but not music instruments, will not be considered relevant.
+
+
+
+
+Information Need 2
+
+Description: I always get common cold very easily and taking the medicine makes me drowsy, so I want to know the home remedies that I can try for curing common cold.
+
+Questions: What are the home remedies for curing a common cold? How can I prevent catching a common cold in future? Are there any changes in diet that I should make (for example eating fruits rich in Vitamin C) to improve my immunity for common cold?
+
+Query: common cold home remedies
+
+Narrative: Relevant sites must talk about home remedies for common cold. A relevant site may talk about symptoms and causes, but the site must have a significant amount of detail about curing it through home remedies. Other relevant sites may talk about Flu along with common cold. Sites which talk about common cold medicines available in pharmacy, but not home remedies, will not be considered relevant.
+
+
+
+
+Information Need 3
+
+Description: I always wanted to explore Italy and it has always been on my bucket list. I want to find out about more about the sightseeing places and tourist attractions in Italy.
+
+Questions: What are best tourist attractions in Italy? How many days are enough to spend in Italy? What is the estimated cost for a trip to Italy?
+
+Query: tourist attractions in Italy
+
+Narrative: Relevant sites must talk tourist attractions in Italy. A relevant site may talk about other events in Italy too, but the site must have a significant amount of detail about sightseeing and tourist attractions in Italy. Other relevant sites may talk about the estimated cost for trip to Italy and show results for booking a flight or a hotel. Yet other relevant sites may be specific about one city in Italy like Venice or Rome. Sites which talks about Italy in general such as it's history or politics, but not tourist attractions, will not be considered relevant.
