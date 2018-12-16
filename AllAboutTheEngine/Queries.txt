@@ -1,0 +1,62 @@
+1    Friends		Looking for tv show named "Friends" and similar shows. Got an exact match with similar comedy tv shows.
+
+2    Grey's Anatomy        Looking for tv show mentioned in query and to verify if Friends is also listed there as this was in the result of previous query. Got a match with Friends also listed in top 6 results.
+
+3    Movies for age 5 to 7        Looking for movies suitable for children for specified age range. Got mostly anime movies.
+
+4    Movies for age 5 to 8        Looking for movies suitable for children for specified age range and see if increasing the upper limit of age by one changes any result. Showed anime movies again with some different results.
+
+5    Movies for age 20 to 50        Looking for movies that adults like to watch. The query was not supported and returned me no results.
+
+6    Movies for adults        Looking for movies that adults like to watch. Got back results with mostly non anime movies and some 'R' rated movies.
+
+7    Movies for old        Looking for movies that elderly people like to watch. Got mostly anime movies which was unusual.
+
+8    Romantic Christmas Movies        Looking for movies that are romantic and based on Christmas festival. Almost all movies were of romantic genre and had Christmas keyword in title.
+
+9    "Romantic OR Christmas Movies"        Trying out boolean expression on romantic or Christmas movies to get either of them in results. Surprisingly, Netflix did not support this transformed query, unlike other search engines that usually do.
+
+10    Oscar-winning Crime Movies based on Books        Looking for movies that have won Oscar and fall into crime genre originated from a book written out earlier. Got back results satisfying my query with either the movie that has won Oscar or one of the cast that has.
+
+11    Adam Sandler Movies        Looking for any movie that has Adam Sandler in the cast. Got maximum results for this query listing out all movies having Adam Sandler mostly ranked on the basis of rating and year of release.
+
+12    Episodes        Looking for tv show named "Episodes". Got the first result of tv show named "Episodes" with other results showing tv shows as they contain episodes which is another meaning to the query.
+
+13    to be or not to be        Looking for movies or tv shows by trying out a query full of stop words. Got some results of movies with one or two stop words in their title ranked according to the frequency of query's stop words in the title.
+
+14    !        Testing out "!" to see if I get no result. Got a list of movies that were all anime or suited to children
+
+15    .        Testing out "." to see if I get no result. Got a list of movies that were all anime or suited to children
+
+16    123456789        Testing out random numbers to see if I get no result. Got a list of movies that were all anime or suited to children. Pattern that I observed here is that for all gibberish results, Netflix processes such queries assuming it was written out by a kid and displays anime or children suited movies.
+
+17    Indian movies        Looking for movies that are in Hindi language and are Bollywood. Got all Indian movies in Hindi language and are Bollywood.
+
+18    Indian movies for hopeless romantics        Building a more complex query on the above to see Indian movies that are romantic. Got back results with all Indian movies in Hindi and that are in romantic genre. 
+
+19    magnetic field        Looking for a documentary on magnetic field. Mostly got Sci-fi tv shows, but none of them were documentaries on magnetic field.
+
+20    popular movies        Looking for movies that are popular. Displayed many results most of them that I had already seen and were popular too in general.
+
+21    iends        Trying out a suffix search to look for tv show "Friends" by purposely missing out 'f' and 'r' in prefix. Got the first result as "Friends"
+
+22    frien        Trying out a prefix search to look for tv show "Friends" by purposely missing out 'd' and 's' in suffix. Got the first result as "Friends"
+
+23    frands        Trying out a misspelled tv show which is spelled correctly as "Friends". Got the first result as "Friends"
+
+24    Netflix        Looking for Netflix produced or signed movies or tv shows. Got all results features as Netflix original movies and tv shows.
+
+25    Disney tv        Looking for Disney produced tv shows. Got most of the results that were Disney produces tv shows, but the results also had Netflix original tv shows (diverse results or promoting their own company too?). 
+
+26    电影        Looking for any movie (this symbol is a translation of word "movie" in English to Chinese). Some of the results were Chinese movies.
+
+27    Vrienden        Looking for tv show "Friends" written in Dutch. Got the first result of tv show "Friends".
+
+28    9/11        Looking to movies or documentaries based on 9/11 event (I wanted to try out a date query to see if it can be processed). Got back results with both documentaries and movies on 9/11.
+
+29    Marvel movies        Looking for Marvel movies like Iron Man, Spider-man, etc. Got back results with a diverse list of Marvel produced movies.
+
+30    22nd July        Looking for documentary or movie on 2011 Norway attacks on 22nd July. Got back with a movie named "22 July" on the same incident and other unrelated shows and movies (What I really wanted to test was whether it will give me other results on shows or movies released in July or on the same incident or similar incident).
+
+31    Miracle on the Hudson        Looking for movies or documentaries based on the famous plane landing on the Hudson River. Got back results with movies on 9/11 and other plane conspiracies, but not on the same incident.
+
